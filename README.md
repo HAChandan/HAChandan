@@ -54,4 +54,4 @@ Now, with **2+ years of experience as a Python Developer**, I specialize in buil
 
 ---
 
-> *"🏭 From machines 🔧to 🤖 machine learning 🧠 — embracing change 🔄 to build the future 🌟"*
+> *"🏭 From machines 🔧 to 🤖 machine learning 🧠 — embracing change 🔄 to build the future 🌟"*
